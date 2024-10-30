@@ -27,3 +27,6 @@ The Price Comparator is a web application that enables users to enter a product 
 
    ```bash
    git clone https://github.com/yourusername/price-comparator.git
+
+
+Feel free to adjust any part of this README to better fit your project!
