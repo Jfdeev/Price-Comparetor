@@ -21,6 +21,10 @@ The Price Comparator is a web application that enables users to enter a product 
 - CSS
 - JavaScript (optional, for additional functionalities)
 
+## How to see
+
+link of project: https://fabulous-starship-fcd84f.netlify.app/
+
 ## How to Use
 
 1. **Clone the repository:**
